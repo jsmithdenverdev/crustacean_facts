@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "${workspaceFolder:crustacean_facts}/subscribers.db",
+      "driver": "SQLite",
+      "name": "subscriber",
+      "previewLimit": 50
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
